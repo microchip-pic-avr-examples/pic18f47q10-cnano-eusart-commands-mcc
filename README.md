@@ -1,10 +1,10 @@
-<a href="https://www.microchip.com" rel="nofollow"><img src="./images/MicrochipLogo.png" alt="Microchip Logo" width="300" /></a>
+[![MCHP](images/microchip.png)](https://www.microchip.com)
 
 # PIC18F47Q10 EUSART Receive Control Commands
 
 This example shows how to implement a command line interface. This way, the microcontroller can receive
 control commands via the EUSART. In this use case, an LED is controlled using commands sent from the
-MPLAB Data Visualizer..
+MPLAB Data Visualizer.
 
 ## Related Documentation
 

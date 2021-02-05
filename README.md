@@ -49,3 +49,4 @@ according to the command sent.
 One important usage of the EUSART represents the implementation of a command line interface. This way, the
 microcontroller can receive control commands via EUSART. It is convenient to use the line terminator as command
 delimiter, so for this use case, EUSART will read full lines and then check if the line contains a valid command.
+

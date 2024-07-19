@@ -69,7 +69,7 @@ The following configurations must be made for this project:
 |        Pin         | Configuration  |
 | :----------------: | :------------: |
 | RD0 (EUSART2 - TX) | Digital output |
-| RD1 (EUSART2 - RX) | Digital output |
+| RD1 (EUSART2 - RX) | Digital input  |
 |     RE0 (LED0)     | Digital output |
 
 ## Demo

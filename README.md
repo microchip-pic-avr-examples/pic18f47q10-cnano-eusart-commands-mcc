@@ -1,8 +1,8 @@
 [![MCHP](images/microchip.png)](https://www.microchip.com)
 
-# Receive Control Commands via EUSART Using the PIC18f47Q10 Microcontroller with MCC Melody
+# Receive Control Commands via EUSART Using the PIC18f47Q10 Microcontroller With MCC Melody
 
-This example shows how to implement a command line interface. This way, the microcontroller can receive control commands via the EUSART. In this use case, an LED is controlled using commands sent from the MPLAB Data Visualizer.
+This example shows how to implement a command line interface. This way, the microcontroller can receive control commands via the EUSART. In this use case, an LED is controlled using commands sent from the MPLAB® Data Visualizer.
 
 ## Related Documentation
 
@@ -16,7 +16,7 @@ More details and code examples on the PIC18F47Q10 can be found at the following 
 ## Software Used
 
 - [MPLAB X IDE v6.20 or newer](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_PIC18F47Q10&utm_content=pic18f47q10-cnano-eusart-commands-mcc&utm_bu=MCU08)
-- [MPLAB® XC8 v2.46 or newer](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_PIC18F47Q10&utm_content=pic18f47q10-cnano-eusart-commands-mcc&utm_bu=MCU08)
+- [MPLAB XC8 v2.46 or newer](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_PIC18F47Q10&utm_content=pic18f47q10-cnano-eusart-commands-mcc&utm_bu=MCU08)
 - [PIC18F-Q_DFP v1.25.433 or newer](https://packs.download.microchip.com/)
 
 ## Hardware Used

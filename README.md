@@ -11,7 +11,7 @@ More details and code examples on the PIC18F47Q10 can be found at the following 
 - [PIC18F47Q10 Product Page](https://www.microchip.com/en-us/product/pic18f47q10?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_PIC18F47Q10&utm_content=pic18f47q10-cnano-eusart-commands-mcc&utm_bu=MCU08)
 - [PIC18F47Q10 Code Examples on Discover](https://mplab-discover.microchip.com/v2?dsl=PIC18F47Q10)
 - [PIC18F47Q10 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples/?q=PIC18F47Q10)
-- [TB3282 - Getting Started with UART using EUSART on PIC18](https://www.microchip.com/wwwappnotes/appnotes.aspx?appnote=en1003086)
+- [TB3282 - Getting Started with UART using EUSART on PIC18](https://www.microchip.com/en-us/application-notes/tb3282)
 
 ## Software Used
 

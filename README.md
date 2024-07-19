@@ -1,6 +1,6 @@
 [![MCHP](images/microchip.png)](https://www.microchip.com)
 
-# Receive Control Commands via EUSART Using the PIC18f47Q10 Microcontroller With MCC Melody
+# Receive Control Commands via EUSART Using the PIC18F47Q10 Microcontroller With MCC Melody
 
 This example shows how to implement a command line interface. This way, the microcontroller can receive control commands via the EUSART. In this use case, an LED is controlled using commands sent from the MPLAB® Data Visualizer.
 
